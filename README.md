@@ -1,3 +1,3 @@
 # css-workspace
 
-## [Buttons](css-button/button.md)
+## [Buttons](button/button.md)
